@@ -1,0 +1,5 @@
+﻿  Directory.cpp
+D:\OS_PROJECT_ABDO\os_project\os_project\Directory.cpp(30,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OS_PROJECT_ABDO\os_project\os_project\Directory.cpp(39,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OS_PROJECT_ABDO\os_project\os_project\Directory.cpp(205,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  os_project.vcxproj -> D:\OS_PROJECT_ABDO\os_project\x64\Debug\os_project.exe
